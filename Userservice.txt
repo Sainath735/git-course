@@ -1,2 +1,4 @@
 User service created...
 Get user data and process it
+
+create an avatar for user
